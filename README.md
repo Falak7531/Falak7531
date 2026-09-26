@@ -5,9 +5,6 @@
 🌐 Building full-stack applications & real-world products  
 🧠 Learning DSA, System Design & Software Engineering  
 🚀 I build, break, learn, and ship projects
-# 💫 About Me:
-## Hi, I'm Falak 👋<br><br>💻 CSE & AI student at Newton School of Technology  <br>🤖 Exploring AI/ML, LLMs & AI Agents  <br>🌐 Building full-stack applications & real-world products  <br>🧠 Learning DSA, System Design & Software Engineering  <br>🚀 I build, break, learn, and ship projects
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/falakmishra_7531_62199) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/falak_802/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/falak-mishra-b67601379/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/falakmishra47/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Falak Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:falakmishra01@gmail.com) 
